@@ -92,6 +92,8 @@ Form codes are read left-to-right with the following priority:
 |------|-------------|---------------------|
 | **W** | Wheeled base | Smooth surfaces, indoor |
 | **T** | Tracked/tread base | Mixed terrain, outdoor |
+| **2T** | Dual Tracked/tread bases | Mixed terrain, outdoor |
+| **nT** | n Tracked/tread bases | Mixed terrain, space, outdoor |
 
 ### 3.5 Manipulation Appendages
 
