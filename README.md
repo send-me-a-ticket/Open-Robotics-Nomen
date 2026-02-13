@@ -110,7 +110,7 @@ Form codes are read left-to-right with the following priority:
 | Code | Description | Typical Dimensions |
 |------|-------------|-------------------|
 | **NANO** | Nanoscale | <1mm (experimental/medical) |
-| **MICRO** | Microscale | 1mm-30cm |
+| **MICRO** | Microscale | 1mm-3cm |
 
 ### 3.7 Form Code Examples
 
