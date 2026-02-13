@@ -501,5 +501,3 @@ NAVY-CAF1R-S-SOL5H10B20P28D-SAT                // Naval underwater drone
 ---
 
 **End of Open Robotics Nomenclature Standard (r1.2026)**
-
-*For questions, contributions, or certification inquiries, contact: standards@open-robotics.org*
