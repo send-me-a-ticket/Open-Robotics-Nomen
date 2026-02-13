@@ -1,6 +1,6 @@
 # Open Robotics Nomenclature Standard (r1.2026)
 
-Hereby defined are the standardized nomenclature conventions for the classification, identification, and interoperability specification of robotic systems. This standard enables universal communication of robotic capabilities, form factors, and technical specifications across manufacturers, deployment environments, and regulatory frameworks.
+We define a standardized nomenclature conventions for the classification, identification, and interoperability specification of robotic systems. This standard enables universal communication of robotic capabilities, form factors, and technical specifications across manufacturers, deployment environments, and regulatory frameworks.
 
 **Version:** 1.0 (2026)  
 **Status:** Draft Proposal  
