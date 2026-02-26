@@ -453,22 +453,6 @@ New versions must maintain backwards compatibility for designations created unde
 
 ---
 
-## 14. Reference Implementation
-
-A reference parser implementation is available at:
-```
-https://github.com/open-robotics/orns-parser
-```
-
-Implementations are available in:
-- Python
-- JavaScript/TypeScript
-- Rust
-- C++
-- Go
-
----
-
 ## Appendix A: Quick Reference Chart
 
 | Category | Codes | Examples |
