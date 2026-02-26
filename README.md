@@ -469,7 +469,7 @@ New versions must maintain backwards compatibility for designations created unde
 
 ---
 
-## Appendix B: Complete Example Gallery
+## Appendix B: Example Gallery
 
 ```
 TESLA-MT2R-L-12B30P22D-6W5G                    // Tesla Optimus Gen 3
